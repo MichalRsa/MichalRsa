@@ -6,7 +6,7 @@ Mostly React, TypeScript, Node.js stuff.
 Check out:
 - [michalrosa.dev](https://michalrosa.dev/) for my personal page
 
-- [spotify-songsterr-tabs](https://github.com/MichalRsa/spotify-songsterr-tabs) for usable application. (Temporary down, AWS charged me 90$ :weary: for two months of EC2 and LB, and had to find a new server provider)
+- [spotify-songsterr-tabs](https://github.com/MichalRsa/spotify-songsterr-tabs) for usable application.
 
 - [event-app](https://github.com/MichalRsa/event-app) for some nice architecture.
 
