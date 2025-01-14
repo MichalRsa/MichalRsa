@@ -14,10 +14,10 @@ Check out:
 
 [![My Skills](https://skillicons.dev/icons?i=neovim)](https://skillicons.dev)
 
-I use Vim btw. - [NvChad config](https://nvchad.com/) with some [custom extensions for web dev](https://github.com/MichalRsa/nvchad-custom-config)
+I use Vim btw. - [My Neovim config]([https://nvchad.com/](https://github.com/MichalRsa/neovim-config))
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichalRsa)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
