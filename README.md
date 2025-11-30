@@ -4,9 +4,11 @@
 Mostly React, TypeScript, Node.js stuff.
 
 Check out:
-- [michalrosa.dev](https://michalrosa.dev/) for my personal page
+<!-- - [michalrosa.dev](https://michalrosa.dev/) for my personal page -->
 
-- [spotify-songsterr-tabs](https://github.com/MichalRsa/spotify-songsterr-tabs) for usable application.
+- [egzamin-krotkofalarski.pl](https://egzamin-krotkofalarski.pl/) Website that helps you to prepare for hamradio operator Polish exam.
+
+- [spotify-songsterr-tabs](https://github.com/MichalRsa/spotify-songsterr-tabs) for usable application. [Live Preview](http://138.197.184.106:3456/)
 
 - [event-app](https://github.com/MichalRsa/event-app) for some nice architecture.
 
