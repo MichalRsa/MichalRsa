@@ -10,8 +10,6 @@ Check out:
 
 - [spotify-songsterr-tabs](https://github.com/MichalRsa/spotify-songsterr-tabs) for usable application. [Live Preview](http://138.197.184.106:3456/)
 
-- [event-app](https://github.com/MichalRsa/event-app) for some nice architecture.
-
 
 
 [![My Skills](https://skillicons.dev/icons?i=neovim)](https://skillicons.dev)
